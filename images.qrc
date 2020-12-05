@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/ico.ico</file>
+        <file>data/ico.png</file>
+        <file>data/mieba.png</file>
+        <file>data/start.png</file>
+    </qresource>
+</RCC>
