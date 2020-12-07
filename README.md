@@ -45,13 +45,13 @@ pyinstaller == 4.1
 
 ###### 2.先进先出算法 FIFO 手动：
 
- ![image-20201207110310377](D:\Sysytem\Desktop\image-20201207110310377.png)        
+ ![image-20201207110310377](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/8.png)        
 
  
 
 ###### 3.最近最久未使用算法 LRU手动：
 
- ![image-20201207110316425](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110316425.png)
+ ![image-20201207110316425](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/7.png)
 
  
 
@@ -59,7 +59,7 @@ pyinstaller == 4.1
 
  
 
- ![image-20201207110321255](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110321255.png)
+ ![image-20201207110321255](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/6.png)
 
 ##### （二）随机生成模式
 
@@ -77,17 +77,17 @@ pyinstaller == 4.1
 
  
 
- ![image-20201207110327653](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110327653.png)
+ ![image-20201207110327653](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/5.png)
 
 ###### 3.最近最久未使用算法 LRU手动：
 
  
 
- ![image-20201207110334841](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110334841.png)
+ ![image-20201207110334841](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/4.png)
 
 ###### 4.理性淘汰型算法 OPT手动：
 
- ![image-20201207110340647](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110340647.png)
+ ![image-20201207110340647](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/3.png)
 
  
 
@@ -107,8 +107,8 @@ pyinstaller == 4.1
 
  
 
- ![image-20201207110346544](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110346544.png)
+ ![image-20201207110346544](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/2.png)
 
 ###### 3.平均缺页率模式：
 
-![image-20201207110351263](https://github.com/Yoshino144/page_replacement_algorithm/blob/master/img/1.png)
+![image-20201207110351263](https://github.com/Yoshino144/page_replacement_algorithm/tree/master/img/1.png)
