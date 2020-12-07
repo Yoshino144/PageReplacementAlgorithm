@@ -111,4 +111,4 @@ pyinstaller == 4.1
 
 ###### 3.平均缺页率模式：
 
-![image-20201207110351263](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110351263.png)
+![image-20201207110351263](https://github.com/Yoshino144/page_replacement_algorithm/blob/master/img/1.png)
