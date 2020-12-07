@@ -4,14 +4,18 @@ import time
 import traceback
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
+
 from PyQt5.QtCore import Qt, QCoreApplication, QPropertyAnimation, QPoint, pyqtSlot, QTimer, pyqtSignal
 from PyQt5.QtWidgets import QGraphicsDropShadowEffect, QLabel, QScrollArea, QVBoxLayout, QWidget, qApp, QApplication, \
     QGridLayout
+
 import FIFO
 from PyQt5.QtGui import QFont, QPainter, QPen, QBrush, QPixmap, QPaintEvent, QColor
+
 import LRU
 import OPT
 from NEW_GUI import Example
+
 import images
 
 

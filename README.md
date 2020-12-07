@@ -31,3 +31,84 @@ pyinstaller == 4.1
 ├── LRU.py                // 最近最久未使用算法
 ```
 
+
+
+##### （一）手动输入模式
+
+###### 1.数据
+
+页面数据：1 2 3 4 5 2 1 2 3 4 1 2 3 2 3 2 3
+
+内存块数：3
+
+ 
+
+###### 2.先进先出算法 FIFO 手动：
+
+ ![image-20201207110310377](D:\Sysytem\Desktop\image-20201207110310377.png)        
+
+ 
+
+###### 3.最近最久未使用算法 LRU手动：
+
+ ![image-20201207110316425](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110316425.png)
+
+ 
+
+###### 4.理性淘汰型算法 OPT手动：
+
+ 
+
+ ![image-20201207110321255](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110321255.png)
+
+##### （二）随机生成模式
+
+###### 1.数据
+
+(1)随机数量：100
+
+(2)随机范围：1 30
+
+(3)内存块数：20
+
+ 
+
+###### 2.先进先出算法 FIFO 随机：
+
+ 
+
+ ![image-20201207110327653](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110327653.png)
+
+###### 3.最近最久未使用算法 LRU手动：
+
+ 
+
+ ![image-20201207110334841](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110334841.png)
+
+###### 4.理性淘汰型算法 OPT手动：
+
+ ![image-20201207110340647](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110340647.png)
+
+ 
+
+##### （三）算法比较模式
+
+###### 1.数据
+
+(1)随机数量：1000
+
+(2)随机范围：1 15
+
+(3)内存块数：5
+
+ 
+
+###### 2.缺页率模式：
+
+ 
+
+ ![image-20201207110346544](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110346544.png)
+
+###### 3.平均缺页率模式：
+
+![image-20201207110351263](C:\Users\Yoshi\AppData\Roaming\Typora\typora-user-images\image-20201207110351263.png)
